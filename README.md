@@ -17,7 +17,11 @@ I am a Marketing Analyst who specializes in turning raw, messy data into clear, 
 ---
 
 ### 🚀 Featured Work
-* **[🛒 Retail Customer Segmentation & Tiered Loyalty Strategy](INSERT_YOUR_GITHUB_PAGES_LINK_HERE)** 
+* **[☕ Customer Metrics Modelling: Brand Mindset & Sales Conversion](https://anhdao-github.github.io/Caf-Dulcis-Marketing-Mindset-Sales-Conversion-Analysis/)** 
+  * *What it is:* An analysis bridging the gap between marketing investments and financial performance for a specialty coffee brand.
+  * *How I did it:* Applied autoregressive (AR) models and log-linear regressions in R to quantify the Potential, Stickiness, Responsiveness, and Conversion of key customer mindset metrics.
+ 
+* **[🛒 Retail Customer Segmentation & Tiered Loyalty Strategy](https://anhdao-github.github.io/Loyalty-Strategy-for-a-Major-Grocery-Retailer/)** 
   * *What it is:* A data-driven tiered loyalty strategy designed to maximize profitability for a major grocery retailer.
   * *How I did it:* Applied RFM segmentation and a 2x2 value matrix to transaction data in R, profiling high-value segments to deliver actionable 4P recommendations.
    
