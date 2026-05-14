@@ -18,12 +18,12 @@ I am a Marketing Analyst who specializes in turning raw, messy data into clear, 
 
 ### 🚀 Featured Work
 
-* **[✈️ AeroValue: Low-Cost Airline Competitive Positioning]([https://INSERT_YOUR_GITHUB_PAGES_LINK_HERE](https://anhdao-github.github.io/Low-Cost-Airline-Competitive-Positioning-Strategy-via-User-Generated-Data/)** 
+* **[✈️ AeroValue: Low-Cost Airline Competitive Positioning](https://anhdao-github.github.io/Low-Cost-Airline-Competitive-Positioning-Strategy-via-User-Generated-Data/)** 
   * *What it is:* A data-driven market entry strategy for a challenger airline.
   * *How I did it:* Scraped 9,500+ customer reviews, performed sentiment analysis & multidimensional scaling in R, and mapped out a highly targeted 4Ps business strategy.
 
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Click here to view my profile]([INSERT_YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/dangngoc-anhdao/))
+* **LinkedIn:** [Click here to view my profile](https://www.linkedin.com/in/dangngoc-anhdao/)
 * **Email:** [dangngoc.anhdao@gmail.com]
