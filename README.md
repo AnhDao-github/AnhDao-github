@@ -17,7 +17,7 @@ I am a Marketing Analyst who specializes in turning raw, messy data into clear, 
 ---
 
 ### 🚀 Featured Work
-* **[☕ Customer Metrics Modelling: Brand Mindset & Sales Conversion](https://anhdao-github.github.io/Caf-Dulcis-Marketing-Mindset-Sales-Conversion-Analysis/)** 
+* **[☕ Customer Metrics Modelling: Brand Mindset & Sales Conversion](https://anhdao-github.github.io/Customer-Metrics-Modelling-Brand-Mindset-Sales-Conversion/)** 
   * *What it is:* An analysis bridging the gap between marketing investments and financial performance for a specialty coffee brand.
   * *How I did it:* Applied autoregressive (AR) models and log-linear regressions in R to quantify the Potential, Stickiness, Responsiveness, and Conversion of key customer mindset metrics.
  
