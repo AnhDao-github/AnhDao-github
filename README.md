@@ -10,7 +10,7 @@ I am a Marketing Analyst who specializes in turning raw, messy data into clear, 
 * 📈 **Data Visualization:** Building clean, interactive reports that tell a story.
 
 **My Toolkit:**
-* **Languages & Tools:** R, SQL, Git/GitHub, MATLAB
+* **Languages & Tools:** R, SQL, Git/GitHub, PowerBI, MATLAB
 * **Techniques:** Web Scraping, Sentiment Analysis (NLP), Predictive Modeling
 * **Reporting:** R Markdown, HTML Dashboards, PowerPoint
 
