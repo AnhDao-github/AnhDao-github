@@ -33,4 +33,3 @@ I am a Marketing Analyst who specializes in turning raw, messy data into clear, 
 
 ### 📫 Let's Connect!
 * **LinkedIn:** [Click here to view my profile](https://www.linkedin.com/in/dangngoc-anhdao/)
-* **Email:** dangngoc.anhdao@gmail.com
