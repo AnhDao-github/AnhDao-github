@@ -1,6 +1,6 @@
 # Hi there, I'm Anh Dao 👋
 
-### 📊 Marketing Analyst | Business Strategist
+### Marketing Analyst | Business Strategist
 
 I am a Marketing Analyst who specializes in turning raw, messy data into clear, actionable business strategies. I love diving into customer behavior, finding operational bottlenecks, and building data-driven solutions that actually make sense for the real world. 
 
@@ -10,7 +10,7 @@ I am a Marketing Analyst who specializes in turning raw, messy data into clear, 
 * 📈 **Data Visualization:** Building clean, interactive reports that tell a story.
 
 **My Toolkit:**
-* **Languages & Tools:** R, SQL, Git/GitHub, PowerBI, MATLAB
+* **Languages & Tools:** R, SQL, Git/GitHub, PowerBI, MATLAB, Co-work Claude
 * **Techniques:** Web Scraping, Sentiment Analysis (NLP), Predictive Modeling
 * **Reporting:** R Markdown, HTML Dashboards, PowerPoint
 
