@@ -11,7 +11,7 @@ I am a Business Strategist who specializes in turning raw, messy data into clear
 
 **My Toolkit:**
 * **Languages & Tools:** R, SQL, Git/GitHub, PowerBI, MATLAB, Claude Cowork
-* **Techniques:** Web Scraping, Sentiment Analysis (NLP), Predictive Modeling
+* **Techniques:** Web Scraping, Sentiment Analysis (NLP), Predictive Modeling, Marketing Mix Modeling (MMM), Customer Segmentation (RFM), Attribution Modeling
 * **Reporting:** R Markdown, HTML Dashboards, PowerPoint
 
 ---
