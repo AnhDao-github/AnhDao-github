@@ -1,8 +1,8 @@
 # Hi there, I'm Anh Dao 👋
 
-### Business Strategist | Analyst
+### Full-stack Marketing Analyst 
 
-I am a Business Strategist who specializes in turning raw, messy data into clear, actionable business strategies. I love diving into customer behavior, finding operational bottlenecks, and building data-driven solutions that actually make sense for the real world. 
+I am a Business Strategist who specializes in utilizing R & Python to build a predictive regression model on customer data, identifying a high-value churn risk and providing insights that inform actionable business strategies. I love diving into customer behavior, finding operational bottlenecks, and building data-driven solutions that actually make sense for the real world. 
 
 **What I do:**
 * 🧠 **Business Strategy:** Translating complex metrics into executive-ready recommendations.
